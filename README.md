@@ -1,6 +1,6 @@
 # Simple Calculator App
 
-I just started learning Android App Development. This is my first app. Please feel free to correct me wherever there is a scope of improvement.
+This is my first app. I was a kid back then:P. Please feel free to raise issues and send PRs wherever there is a scope.
 
 ## Getting Started
 
